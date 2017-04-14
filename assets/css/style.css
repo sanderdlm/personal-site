@@ -100,6 +100,9 @@ ul li {
 /*-------------------------
     Random stuff
 --------------------------*/
+.error-title {
+    font-size: 120px;
+}
 ::selection {
     background: #f5a623;
 }

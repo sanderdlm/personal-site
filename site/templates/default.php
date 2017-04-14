@@ -2,17 +2,10 @@
 
   <main class="main" role="main">
 
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
+      <h2 class="error-title"><?= $page->title()->html() ?></h2>
+      <div class="text">
+        <?= $page->text()->kirbytext() ?>
       </div>
-      <hr />
-    </header>
-      
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
-    </div>
 
   </main>
 
