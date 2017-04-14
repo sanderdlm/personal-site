@@ -1,0 +1,30 @@
+title: Dungeon
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+
+  year:
+    label: Year
+    type:  text
+    width: 1/4
+  
+  tags:
+    label: Technologies used
+    type:  tags
+
+  live_link:
+    label: Link
+    type:  url
+
+  description:
+    label: Description
+    type:  textarea
+

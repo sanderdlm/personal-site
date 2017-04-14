@@ -1,0 +1,42 @@
+title: Home
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  birth_year:
+    label: Birth year
+    type:  text
+    width: 1/4
+
+  interests:
+      label: Interests
+      type: tags
+      width: 3/4
+
+  job_title:
+      label: Job title
+      type: text
+      width: 1/2
+
+  job_company:
+      label: Company name
+      type: text
+      width: 1/2
+
+  job_link:
+      label: Job link
+      type: url
+      width: 1/2
+
+  github_link:
+      label: Github link
+      type: url
+      width: 1/2
+
+  header_text:
+    label: Header comment text
+    type:  textarea
