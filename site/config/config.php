@@ -17,6 +17,24 @@ for more information: http://getkirby.com/license
 
 c::set('license', 'put your license key here');
 
+c::set('languages', array(
+  array(
+    'code'    => 'nl',
+    'name'    => 'Nederlands',
+    'default' => true,
+    'locale'  => 'nl_BE',
+    'url'     => '/',
+  ),
+  array(
+    'code'    => 'en',
+    'name'    => 'English',
+    'locale'  => 'en_US',
+    'url'     => '/en',
+  ),
+));
+
+c::set('language.detect', true);
+
 /*
 
 ---------------------------------------
@@ -31,3 +49,12 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 c::set('debug', true);
 c::set('markdown.extra',true);
+
+c::set('panel.widgets', array(
+  'pages'    => true,
+  'site'     => true,
+  'account'  => true,
+  'history'  => true,
+  'seo-checklist' => true,
+  'license' => false
+));

@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: http://sanderdlm.be/sitemap
+Sitemap: https://sanderdlm.be/sitemap

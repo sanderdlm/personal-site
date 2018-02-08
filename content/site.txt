@@ -1,4 +1,4 @@
-Title: Sander De la Marche
+Title: Sander De la Marche | Kwalitatief web design & ontwikkeling
 
 ----
 
@@ -6,8 +6,28 @@ Author: Sander De la Marche
 
 ----
 
-Description: Sander De la Marche | Web developer
+Description: Sander De la Marche is een web ontwikkelaar, strategische denker & digitale designer uit Gent, België
 
 ----
 
 Footer: 
+
+----
+
+Keywords: web,website,design,development,CMS,Kirby
+
+----
+
+Seo-title: Sander De la Marche | Kwalitatief web design & ontwikkeling
+
+----
+
+Seo-site-name: Kwalitatief web design &amp; ontwikkeling door Sander De la Marche
+
+----
+
+Seo-description: Sander De la Marche is een web ontwikkelaar, strategische denker & digitale designer uit Gent, België
+
+----
+
+Seo-image: meta.jpg

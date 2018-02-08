@@ -2,4 +2,8 @@ Title: 404
 
 ----
 
-Text: Woops, looks like we can't find that page. Maybe you mistyped a URL, followed a broken link or your computer just wants to drive you nuts. Anyway … keep calm and take a look at my beautiful (link: / text: [homepage]) instead.
+Text: Woops, looks like we can't find that page. Keep calm and return to the (link: / text: [homepage]).
+
+----
+
+Intro: 

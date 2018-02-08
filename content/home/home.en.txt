@@ -1,0 +1,34 @@
+Title: Home
+
+----
+
+Text: 
+
+----
+
+Birth-year: 1993
+
+----
+
+Job-title: web developer
+
+----
+
+Job-link: http://netcomsolutions.be
+
+----
+
+Github-link: https://github.com/dreadnip
+
+----
+
+Job-company: Netcom Solutions
+
+----
+
+Header-text: 
+
+/*
+ *       Sander De la Marche | Personal homepage v2.0
+ *       http://github.com/dreadnip/personal-site
+ */

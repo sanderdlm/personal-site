@@ -3,29 +3,34 @@ title: Home
 pages: false
 
 fields:
-  title:
-    label: Title
+
+  name:
+    label: Name
     type:  text
+    width: 3/4
 
   birth_year:
     label: Birth year
     type:  text
     width: 1/4
 
-  interests:
-      label: Interests
+  skills:
+      label: Skills
       type: tags
-      width: 3/4
+
+  technologies:
+      label: Technologies
+      type: tags
 
   job_title:
       label: Job title
       type: text
-      width: 1/2
+      width: 1/4
 
   job_company:
       label: Company name
       type: text
-      width: 1/2
+      width: 1/4
 
   job_link:
       label: Job link
@@ -34,6 +39,11 @@ fields:
 
   github_link:
       label: Github link
+      type: url
+      width: 1/2
+
+  twitter_link:
+      label: Twitter link
       type: url
       width: 1/2
 

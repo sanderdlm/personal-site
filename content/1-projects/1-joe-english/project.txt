@@ -22,4 +22,4 @@ Live-link: http://www.joe-english.be/
 
 ----
 
-Description: Informatieve website voor scoutsvereniging Joe English uit Heusden. Kirby geeft hun volledige controle over de website. Zo kunnen ze alle informatieve tekstpagina's zelf aanpassen, nieuwsberichten posten voor de ouders en het maandelijkse activiteitenboekje uploaden.
+Description: Informatieve website voor scoutsvereniging Joe English uit Heusden. Kirby laat hen toe om nieuwsberichten te posten voor de ouders en het maandelijkse activiteitenboekje uploaden.

@@ -4,3 +4,6 @@
 [submodule "panel"]
 	path = panel
 	url = http://github.com/getkirby/panel
+[submodule "site/plugins/seo-checklist"]
+	path = site/plugins/seo-checklist
+	url = https://github.com/dreadnip/kirby-seo-checklist

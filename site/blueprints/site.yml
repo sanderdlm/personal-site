@@ -14,3 +14,23 @@ fields:
   description:
     label: Description
     type:  textarea
+
+  keywords:
+    label: Keywords
+    type:  tags
+
+  seo_title:
+    label: SEO title
+    type:  text
+
+  seo_site_name:
+    label: SEO site name
+    type:  text
+
+  seo_description:
+    label: SEO description
+    type:  text
+
+  seo_image:
+    label: SEO image
+    type:  image
