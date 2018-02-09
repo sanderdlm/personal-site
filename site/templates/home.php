@@ -49,7 +49,7 @@
             <li>
               <span class="string">'<?= l::get('link')?>'</span> =
               <?php if($project->live_link()->isNotEmpty()): ?>
-                <a href="<?= $project->live_link() ?>" target='_blank'><?= $project->title()->html() ?></a>
+                <a href="<?= $project->live_link() ?>" target='_blank'><?= $project->live_link() ?></a>
                 <?php else: ?>
                 <span class="string">no link</span>
               <?php endif ?>

@@ -1,0 +1,17 @@
+Title: shipinsight
+
+----
+
+Year: 2017
+
+----
+
+Tags: php,css,kirby,mailchimp
+
+----
+
+Live-link: https://shipinsight.com/
+
+----
+
+Description: Ontwikkeling van een Kirby knowledge base met custom Mailchimp integratie

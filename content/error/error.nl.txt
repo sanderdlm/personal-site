@@ -1,0 +1,9 @@
+Title: 404
+
+----
+
+Text: Woops, looks like we can't find that page. Keep calm and return to the (link: / text: [homepage]).
+
+----
+
+Intro: 

@@ -29,7 +29,7 @@ Job-company: Netcom Solutions
 Header-text: 
 
 /*
- *       Sander De la Marche | Personal homepage v2.0
+ *       Sander De la Marche | Personal homepage v3.0
  *       http://github.com/dreadnip/personal-site
  */
 

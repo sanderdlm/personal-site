@@ -1,8 +1,8 @@
-Title: leaguecoaching
+Title: joe-english
 
 ----
 
-Year: 2013
+Year: 2015
 
 ----
 
@@ -10,16 +10,16 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 
 ----
 
-Tags: html,css
+Tags: PHP,HTML,CSS,JS,Kirby,Photoshop
 
 ----
 
-Url: http://leaguecoaching.gg
+Url: http://joe-english.be
 
 ----
 
-Live-link: https://www.leaguecoaching.gg/
+Live-link: http://www.joe-english.be/
 
 ----
 
-Description: Original design & code in HTML/CSS
+Description: Informatieve website voor scoutsvereniging Joe English uit Heusden. Kirby laat hen toe om nieuwsberichten te posten voor de ouders en het maandelijkse activiteitenboekje uploaden.

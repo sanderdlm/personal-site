@@ -1,8 +1,8 @@
-Title: joe-english
+Title: leaguecoaching
 
 ----
 
-Year: 2015
+Year: 2013
 
 ----
 
@@ -10,16 +10,16 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 
 ----
 
-Tags: php,html,css,js,kirby,photoshop
+Tags: HTML,CSS
 
 ----
 
-Url: http://joe-english.be
+Url: http://leaguecoaching.gg
 
 ----
 
-Live-link: http://www.joe-english.be/
+Live-link: https://www.leaguecoaching.gg/
 
 ----
 
-Description: Kirby powered website for scout group Joe English
+Description: Oorspronkelijk design & front-end gedaan in HTML & CSS. De code is sindsdien al geupdatet, maar de oorspronkelijke look & feel is behouden.
