@@ -69,12 +69,18 @@
 
     <!-- Contact -->
     <section class='contact'>
-      <h2>public <span class='function'>function</span> <span class='classname'><?= l::get('contact'); ?></span><span class='bracket'>{</span></h2>
-      <ul>
-        <li>mail: inbox at sanderdlm.be <a href='<?php echo url('assets/key.asc') ?>'>[PGP key]</a>;</li>
-        <li>github: <a href='<?= $page->github_link()->text() ?>'>dreadnip</a>;</li>
-        <li>twitter: <a href='<?= $page->twitter_link()->text() ?>'>@dreadnip</a>;</li>
-      </ul>
+      <h2>public <span class='function'>function</span> <span class='classname'><?= l::get('contact'); ?>(<span class="variable">$<?= l::get('intention'); ?></span>)</span><span class='bracket'>{</span></h2>
+      <div class='if'>
+        if (<span class="variable">$<?= l::get('intention'); ?></span> == <span class="string">'spam'</span>)<span class='bracket'> {</span>
+        <ul>
+          <li>echo <span class="string">'fuck off'</span></li>
+        </ul>
+        <span class='bracket'>}</span> elseif (<span class="variable">$<?= l::get('intention'); ?></span> == <span class="string">'stalk'</span>)<span class='bracket'> {</span>
+        <ul>
+          <li>github: <a href='<?= $page->github_link()->text() ?>'>dreadnip</a>;</li>
+          <li>twitter: <a href='<?= $page->twitter_link()->text() ?>'>@dreadnip</a>;</li>
+        </ul>
+      </div>
       <span class='bracket closing'>}</span>
     </section>
   

@@ -10,5 +10,6 @@ l::set(array(
     'description' => 'description',
     'bio' => 'bio',
     'work' => 'getWork',
-    'contact' => 'contact'
+    'contact' => 'contact',
+    'intention' => 'intention'
 ));

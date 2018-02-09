@@ -52,7 +52,7 @@ ul {
   list-style: none; }
 
 ul li {
-  margin-left: 0px; }
+  margin-left: 30px; }
 
 /*-------------------------
     Site layout
@@ -66,6 +66,9 @@ section {
 .main {
   width: 70em; 
 }
+.bio ul li{
+  margin-left: 0px;
+}
 .array > .string {
   display:block;
   margin-left: 30px;
@@ -75,9 +78,6 @@ section {
   color: #f8f8f2;
 }
 .work > .array, .contact > .array {
-  margin-left: 30px;
-}
-.work > .array li {
   margin-left: 30px;
 }
 .work > .array > li:not(:last-child):after {
@@ -131,6 +131,10 @@ section {
 .properties li span {
   vertical-align: top; }
 
+.if {
+  margin-left: 30px;
+}
+
 /*-------------------------
     Random stuff
 --------------------------*/
@@ -146,7 +150,6 @@ section {
   color: #00303e; }
 
 .languages ul li {
-
   margin: 0;
 }
 
